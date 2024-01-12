@@ -48,3 +48,7 @@ h1{
     color:#e3ba60;
 }
 
+.form-control {
+    background-color: #fae4b3 !important;
+    color:#1e1505 !important;
+}
