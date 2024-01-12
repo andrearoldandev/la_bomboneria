@@ -52,3 +52,13 @@ h1{
     background-color: #fae4b3 !important;
     color:#1e1505 !important;
 }
+
+.active {
+    color: #fae4b3 !important;
+}
+
+.btn-primary {
+    background-color: #1e1505 !important;
+    color: #e3ba60 !important;
+    border: 1px solid #1e1505 !important;
+}
