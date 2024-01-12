@@ -1,0 +1,50 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #1e1505 !important;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px !important;
+}
+
+.navbar {
+    background-color: #1e1505;
+}
+
+.nav-link {
+    color: #e3ba60 !important;
+    font-size: 25px !important;
+}
+
+.nav-link:hover {
+    color:#fae4b3 !important;
+}
+
+.navbar-toggler {
+    background-color: #e3ba60 !important;
+    color:#1e1505 !important;
+}
+
+.hr {
+    border:3px solid #e3ba60;
+    
+}
+
+.bg-oro {
+    background-color: #e3ba60 !important;
+    border-radius: 20px;
+    color:#1e1505;
+}
+
+.card-title {
+    color:#fff !important;
+}
+
+.card-text {
+    color:#1e1505 !important;
+}
+
+.footer {
+    color:#e3ba60;
+}
+
